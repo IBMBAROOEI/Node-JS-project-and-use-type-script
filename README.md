@@ -42,7 +42,7 @@ npx tsc
     
     8.npm install --save-dev ts-node nodemon
 
-    {
+{
   "watch": ["src"],
   "ext": ".ts,.js",
   "ignore": [],
@@ -51,7 +51,7 @@ npx tsc
 
 
 
-    Also, add the following script to your package.json:
+ Also, add the following script to your package.json:
 
 "start:dev": "npx nodemon"
 ```
