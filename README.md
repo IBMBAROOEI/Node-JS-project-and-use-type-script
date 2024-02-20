@@ -1,4 +1,4 @@
-# The Purpose of this Exercise: Modularizing a Node.js Project with TypeScript
+# The Purpose of this practice: Modularizing a Node.js Project with TypeScript
 
 ## How to Use TypeScript with Node.js
 
